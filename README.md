@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Wilson KOMLAN, full stack developer based in Togo since 2010. I used to develop Java based microservices as backend and ReactJs & Spring MVC as frontend.
-- 👀 I’m interested in full stack apps such as web, desktop and mobile app
-- 🌱 I’m currently learning React native by doing projects
+- 👋 Hi, I’m Wilson KOMLAN, a full stack developer since 2011 currently living in Spain. 
 - 📫 Reach me on Twitter at @KomlanWilson and on LinkedIn at https://www.linkedin.com/in/wilkom2009/
 
 <!---
